@@ -255,5 +255,6 @@ p{font-family: "custom-regular";}
 .hm-row-padding img {margin-bottom: 12px}
 .hm-sidebar {width: 120px;background: #222;}
 #main {margin-left: 120px}
+.hm-padding-bottom{margin-bottom:10px;}
 @media only screen and (max-width: 600px) {#main {margin-left: 0}}
 @media only screen and (max-width: 768px) {.hm-tag{width:15%;}}
